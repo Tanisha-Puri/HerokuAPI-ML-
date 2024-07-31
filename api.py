@@ -7,7 +7,7 @@ Created on Wed Jul 31 12:26:59 2024
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from psyndantic import BaseModel
+from pyndantic import BaseModel
 import pickle
 import json
 
